@@ -1,0 +1,12 @@
+﻿Build started 15/07/2015 15:01:10.
+     1>Project "C:\Users\qnb10200\Documents\boostTest\BoostTesting\BoostTesting\BoostTesting.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MainTest.cpp
+         MainTest.cpp
+     1>c:\users\qnb10200\documents\boosttest\boosttesting\boosttesting\maintest.cpp(5): error C2065: 'constructors_test' : undeclared identifier
+     1>c:\users\qnb10200\documents\boosttest\boosttesting\boosttesting\maintest.cpp(6): error C2448: 'BOOST_AUTO_EST_CASE' : function-style initializer appears to be a function definition
+     1>Done Building Project "C:\Users\qnb10200\Documents\boostTest\BoostTesting\BoostTesting\BoostTesting.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.56
